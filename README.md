@@ -1,16 +1,31 @@
-## Hi there 👋
+# Hi, I'm Rajkishore 👋
 
-<!--
-**Rajkishorehuduk/Rajkishorehuduk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🚀 About Me
+I'm a passionate developer specializing in [your expertise, e.g., web development, data science, etc.].  
+Currently working at [Company/Project], focused on building scalable and impactful applications.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Skills
+- Languages: Python, JavaScript, TypeScript
+- Frameworks: React, Node.js, Django
+- Tools: Docker, Git, CI/CD
+- Cloud: AWS, Azure
+
+---
+
+## 📈 GitHub Stats
+![Rajkishore's GitHub stats](https://github-readme-stats.vercel.app/api?username=Rajkishorehuduk&show_icons=true&theme=radical)
+
+---
+
+## 📂 Featured Projects
+- [Project 1](https://github.com/Rajkishorehuduk/project1): Short description
+- [Project 2](https://github.com/Rajkishorehuduk/project2): Short description
+
+---
+
+## 📫 Contact Me
+- [LinkedIn](https://linkedin.com/in/yourprofile)
+- [Twitter](https://twitter.com/yourhandle)
+- [Portfolio](https://yourportfolio.com)
