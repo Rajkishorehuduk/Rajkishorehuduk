@@ -1,65 +1,58 @@
-<div align="center">
-  <h1>Hi 👋, I'm Rajkishore</h1>
-  <hr>
-  <p>AI & ML Student | Computer Science | JIS University (3rd Year)</p>
-</div>
+<h1 align="center">Hi there 👋, I'm Rajkishore </h1>
+<h3 align="center">🚀 Developer | 💡 Problem Solver | 🎨 Creative Coder</h3>
 
-<div align="center">
-  <!-- Tech stack icons for Java and relevant tools -->
-  <img src="https://img.shields.io/badge/Java-007396?logo=java&logoColor=white&style=flat-square"/>
-  <img src="https://img.shields.io/badge/IntelliJ%20IDEA-000000?logo=intellijidea&logoColor=white&style=flat-square"/>
-  <img src="https://img.shields.io/badge/VS%20Code-007ACC?logo=visualstudiocode&logoColor=white&style=flat-square"/>
-  <img src="https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white&style=flat-square"/>
-  <img src="https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white&style=flat-square"/>
-  <img src="https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white&style=flat-square"/>
-  <!-- Add/remove icons as needed -->
-</div>
-
-<br/>
-
-<div align="center">
-  <!-- GitHub Stats Card -->
-  <table>
-    <tr>
-      <td>
-        <img src="https://github-readme-stats.vercel.app/api?username=Rajkishorehuduk&show_icons=true&theme=dark" alt="Rajkishore's GitHub Stats"/>
-      </td>
-      <td>
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rajkishorehuduk&layout=compact&theme=dark" alt="Top Languages"/>
-      </td>
-    </tr>
-  </table>
-</div>
-
-<br/>
-
-<div align="center">
-  <!-- Social Buttons -->
-  <a href="https://www.youtube.com/" target="_blank"><img src="https://img.shields.io/badge/Youtube-FF0000?style=for-the-badge&logo=youtube&logoColor=white"/></a>
-  <a href="https://www.instagram.com/" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
-  <a href="https://www.linkedin.com/in/yourprofile" target="_blank"><img src="https://img.shields.io/badge/Linkedin-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  <a href="mailto:your.email@example.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-  <a href="https://discord.com/" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white"/></a>
-  <!-- Add/remove buttons as needed -->
-</div>
-
-<br/>
-
-<div align="center">
-  <!-- Contribution Graph -->
-  <img src="https://github.com/Rajkishorehuduk/Rajkishorehuduk/raw/output/github-contribution-grid-snake.svg" alt="Contribution Graph"/>
-</div>
-
-<br/>
-
-<div align="center">
-  <img src="https://octodex.github.com/images/daftpunktocat-guy.gif" width="150" alt="Octocat"/>
-</div>
+<p align="center">
+  <img src="https://img.shields.io/badge/-Open%20to%20Work-green?style=flat-square&logo=linkedin" />
+  <img src="https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black" />
+  <img src="https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white" />
+  <img src="https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white" />
+</p>
 
 ---
 
-<div align="center">
+## ✨ About Me
 
-> **"Curious, creative, and driven to learn Java and build intelligent solutions."**
+- 🔭 I’m currently working on **creative coding projects**
+- 🌱 I’m learning **Web Devlopement**
+- 👯 I’m open to collaborate on **open-source and innovative projects**
+- 💬 Ask me about **java,c,python,html,css**
+- 📬 Reach me: [rajkishorehuduk@gmail.com](mailto:rajkishorehuduk@gmail.com)
 
-</div>
+---
+
+## 🛠️ My Toolbox
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,git,docker,githubactions,vscode,azure" />
+</p>
+
+---
+
+## 📈 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=detactivepritam&theme=tokyonight&show_icons=true&hide_title=true" height="165"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=detactivepritam&theme=tokyonight" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=detactivepritam&layout=compact&theme=tokyonight" height="165"/>
+</p>
+
+---
+
+## 🌐 Connect with me
+
+<p align="center">
+  <a href="https://https://www.facebook.com/profile.php?id=61550198943421&sfnsn=wiwspwa&mibextid=RUbZ1f"><img src="https://img.shields.io/badge/-Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"/></a>
+  <a href="https://https://www.instagram.com/rajkishore__14?igsh=ZnlzMm5sOXY0NHh0/"><img src="https://img.shields.io/badge/-Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
+  <a href="https://https://www.linkedin.com/in/rajkishore-huduk-b78566361?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app "><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="mailto:rajkishorehuduk@gmail.com"><img src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+</p>
+
+---
+
+<!-- Optional: Fun animated SVG divider -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
+</p>
+
