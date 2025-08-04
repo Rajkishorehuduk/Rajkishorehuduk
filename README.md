@@ -55,5 +55,6 @@
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
 </p>
-<img src="https://media.giphy.com/media/BoBOKC6E1Xjsk/giphy.gif" width="200px" alt="Dancing Robot"/>
+<img src="https://media.giphy.com/media/U3qYN8S0j3bpK/giphy.gif" width="200px" alt="Dancing Robot"/>
+
 
