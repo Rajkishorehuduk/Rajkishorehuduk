@@ -51,10 +51,7 @@
 
 ---
 
-<!-- Optional: Fun animated SVG divider -->
+<!-- Fun robot image -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
+  <img src="https://media.giphy.com/media/U3qYN8S0j3bpK/giphy.gif" width="200px" alt="Dancing Robot"/>
 </p>
-<img src="https://media.giphy.com/media/U3qYN8S0j3bpK/giphy.gif" width="200px" alt="Dancing Robot"/>
-
-
