@@ -50,5 +50,7 @@
 </p>
 
 ---
-
+<p align="center">
+  <img src="https://cdn.pixabay.com/photo/2017/01/31/13/14/robot-2027195_1280.png" width="200px" alt="Robot Sticker"/>
+</p>
 <!-- Fun animated SVG divider and star background removed -->
