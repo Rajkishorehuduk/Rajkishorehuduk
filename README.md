@@ -52,6 +52,6 @@
 ---
 
 <p align="center" style="font-size:2rem;">
-  ⚽ 🐐 🇦🇷 <br>
-  <span>Messi vibes only!</span>
+  🎨🖥️💡<br>
+  <span>Creative Coder — turning ideas into reality!</span>
 </p>
