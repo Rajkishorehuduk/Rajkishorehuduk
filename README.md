@@ -50,7 +50,8 @@
 </p>
 
 ---
-<p align="center">
-  <img src="https://media.giphy.com/media/U3qYN8S0j3bpK/giphy.gif" width="200px" alt="Dancing Robot"/>
+
+<p align="center" style="font-size:2rem;">
+  ⚽ 🐐 🇦🇷 <br>
+  <span>Messi vibes only!</span>
 </p>
-<!-- Fun animated SVG divider and star background removed -->
