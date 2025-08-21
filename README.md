@@ -52,6 +52,11 @@
 ---
 
 <p align="center" style="font-size:2rem;">
-  🎨🖥️💡<br>
-  <span>Creative Coder — turning ideas into reality!</span>
+  <br>
+  <pre>
+ /\_/\  
+( o.o ) 
+ > ^ <   🚶‍⬛
+  </pre>
+  <span>Here's a walking cat to accompany your journey!</span>
 </p>
