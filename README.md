@@ -53,6 +53,6 @@
 ---
 
 <p align="center" style="font-size:2rem;">
-  🎨🖥️💡<br>
+  🎨🖥️⚡💡<br>
   <span>Creative Coder — turning ideas into reality!</span>
 </p>
